@@ -1,0 +1,13 @@
+Title: RAP - RESTful Application Programming Model
+
+RAP is SAP's modern development model for building business objects and
+OData services with clean, ABAP Cloud-compatible code. A RAP object
+consists of a CDS-based data model, a behavior definition (which declares
+operations like create, update, delete, and their validations), and an
+implementation class in ABAP. RAP replaces older approaches like BOPF and
+classic ABAP Gateway (SEGW) hand-built services. It generates the OData
+service automatically from the behavior definition, enforces separation
+between the interface layer and business logic, and supports both managed
+and unmanaged scenarios depending on how much SAP-generated persistence
+handling a developer wants. RAP is central to building extensions on SAP
+BTP that stay upgrade-stable and cloud-compliant.

@@ -1,0 +1,13 @@
+Title: Core Data Services (CDS) Views on SAP BTP
+
+CDS Views are SAP's semantic data modeling layer, defined using a declarative
+Data Definition Language (DDL) that sits on top of the underlying database
+tables. Instead of writing procedural code to join and aggregate data, a
+developer defines a CDS View once and reuses it across OData services,
+Fiori Elements apps, analytical reports, and RAP business objects. CDS
+Views support associations (declarative joins), annotations that drive UI
+behavior automatically, and built-in aggregation. Because the view carries
+semantic metadata, tools consuming it can generate list reports, object
+pages, and value helps largely without additional front-end code. CDS is a
+foundational building block in the RESTful Application Programming (RAP)
+model and in most modern SAP BTP extension scenarios.

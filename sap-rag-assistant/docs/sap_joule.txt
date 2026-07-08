@@ -1,0 +1,10 @@
+Title: SAP Joule
+
+Joule is SAP's generative AI copilot embedded across SAP applications,
+including S/4HANA, SuccessFactors, and BTP tools. It uses natural
+language to let users query business data, trigger transactions, and get
+contextual guidance directly inside SAP applications rather than
+navigating multiple screens. Joule is built on top of SAP's Generative AI
+Hub and AI Core infrastructure, meaning custom extensions and RAG-style
+grounding built on BTP can, in principle, feed into or complement the
+same underlying AI orchestration layer that powers Joule.

@@ -1,0 +1,12 @@
+Title: OData Services in the SAP Ecosystem
+
+OData (Open Data Protocol) is the REST-based protocol SAP uses to expose
+business data and operations to UIs, mobile apps, and external systems.
+An OData service is typically generated from a CDS View or RAP Business
+Object and exposes standard verbs (GET, POST, PUT, DELETE) plus metadata
+that describes entities, associations, and available filters. SAP Fiori
+Elements apps consume OData metadata directly to render list reports and
+object pages without custom UI code. OData V2 was standard in classic
+Fiori and ABAP Gateway scenarios; OData V4 is the default for RAP-based
+services on SAP BTP and S/4HANA Cloud, adding richer query options and
+better alignment with the OData V4 web standard.

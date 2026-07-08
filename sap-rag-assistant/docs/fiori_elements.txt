@@ -1,0 +1,14 @@
+Title: SAP Fiori Elements
+
+Fiori Elements is SAP's metadata-driven UI framework for building
+consistent, standards-based business applications without writing
+extensive custom front-end code. Instead of hand-coding screens, a
+developer defines annotations on an OData service (often generated from a
+CDS View) describing which fields appear in a list, which are editable,
+which trigger value helps, and how object pages are laid out. Fiori
+Elements then renders a fully functional List Report and Object Page
+following SAP's Fiori design guidelines. Supported floorplans include
+List Report, Object Page, Overview Page, and Worklist. Because the UI is
+generated from metadata, Fiori Elements apps automatically pick up
+changes made at the CDS annotation level, reducing front-end maintenance
+overhead compared to freestyle SAPUI5 development.

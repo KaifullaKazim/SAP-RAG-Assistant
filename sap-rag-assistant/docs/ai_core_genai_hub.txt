@@ -1,0 +1,13 @@
+Title: SAP AI Core, AI Launchpad, and Generative AI Hub
+
+SAP AI Core is the backend runtime on SAP BTP for training, deploying,
+and orchestrating both classic machine learning models and generative AI
+workflows at scale, including model serving, scenario management, and
+resource orchestration on Kubernetes. AI Launchpad is the user-facing
+workspace for managing AI Core scenarios, deployments, and configurations
+without needing direct API calls. The Generative AI Hub, available
+through AI Core, provides governed, centralized access to large language
+models from multiple providers (including orchestration, prompt
+templates, grounding, and content filtering) so that BTP applications can
+call LLMs through a consistent, enterprise-governed interface rather than
+integrating directly with each model provider.

@@ -1,0 +1,13 @@
+Title: SAP Business Technology Platform (BTP)
+
+SAP BTP is SAP's platform-as-a-service offering that unifies database and
+data management, analytics, integration, extension development, and AI
+services. It provides the Cloud Foundry and Kyma runtimes for deploying
+custom applications, the SAP HANA Cloud database (including a vector
+engine for embeddings-based search), SAP Integration Suite for connecting
+systems, and SAP Build tools for low-code development. BTP is the
+standard platform for extending S/4HANA and other SAP products without
+modifying the core system ("clean core"), which keeps custom code
+upgrade-safe. Most modern SAP extension and AI projects, including RAP
+based side-by-side extensions and Generative AI scenarios, are built and
+deployed on BTP.
