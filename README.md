@@ -395,21 +395,10 @@ Future enhancements include:
 
 # Screenshots
 
-## Terminal
+## Terminal and Generated Answer
 
-(Add Screenshot Here)
+<img width="1187" height="682" alt="image" src="https://github.com/user-attachments/assets/cfa600ac-5ff5-4281-a322-317784e4dd0c" />
 
----
-
-## Retrieval Output
-
-(Add Screenshot Here)
-
----
-
-## Generated Answer
-
-(Add Screenshot Here)
 
 ---
 
